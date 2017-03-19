@@ -2,7 +2,7 @@
 
 This is a process log to use on GitHub for self-directed learners.
 
-###It's purposes include:
+### It's purposes include:
 
 1. __Focus:__ Allowing you to focus on studying what's most valuable right now.
 2. __Commitment:__ Allowing you to form habits and make tangible, valuable progress.
@@ -12,7 +12,8 @@ This is a process log to use on GitHub for self-directed learners.
 
 This makes public what would be post-it notes on a wall. It also means that others can see you slacking! Or making absurd goals (like building a fully decked out android app in a month when you don't know OO or Java yet). Its ok, learning is messy. And beautiful.
 
-###How it works:
+### How it works:
+
 It's just a series of markdown files.
 
 1. Make a list in `Backlog` of any software concept, tool, framework, language, or what-have-you that you'd like to know, or reasonably claim to know.
@@ -31,4 +32,6 @@ It's just a series of markdown files.
 
 8. Start the next iteration at step 4. Repeat until awesome.
 
-Questions? <a href="https://github.com/IanDCarroll/ScrumBucket/issues/new">Open up an issue!</a> :smile:
+#### Questions?
+
+<a href="https://github.com/IanDCarroll/ScrumBucket/issues/new">Open up an issue!</a> :smile:
