@@ -16,15 +16,15 @@ This makes public what would be post-it notes on a wall. It also means that othe
 
 It's just a series of markdown files.
 
-1. Make a list in `Backlog` of any software concept, tool, framework, language, or what-have-you that you'd like to know, or reasonably claim to know.
+1. Make a list in `Product_Backlog` of any software concept, tool, framework, language, or what-have-you that you'd like to know, or reasonably claim to know.
 
-2. Set a time box for you iterations (aka: "Sprints"). 1 Week seems to work well for a single person, but pick what you like. And don't change it lightly. The rhythm is important to make this work. record this in your `Working_Agreement`
+2. Set a time box for you iterations (aka: "Sprints"). 1 Week seems to work well for a single person, but pick what you like. And don't change it lightly. The rhythm is important to make this work. Record this in your `Working_Agreement`
 
 3. Decide what done looks like. Only working code? Tests pass? Docs up-to-date? Keep it simple at first, you can adjust as time goes on. Record this in your `Definition_of_Done`
 
-4. Pick the most important handfull of items in the `Backlog` to do, and make those your new `Sprint Goal`. Go ahead and give them some arbitrary points based on how much time you think they'll need to get done.
+4. Pick the most important handfull of items in the `Product_Backlog` to do, and make those your new `Sprint_Goal`. Go ahead and give them some arbitrary points based on how much time you think they'll need to get done.
 
-5. At the start of the day record a `Daily Scrum`.
+5. At the start of the day record a `Daily_Scrum`.
 
 6. At the end of the sprint, evaluate how much you got done. Add what you got done to your `Sprint_Review` and compare that to what you expected to get done.
 
