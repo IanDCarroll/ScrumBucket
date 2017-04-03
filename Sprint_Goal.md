@@ -1,10 +1,13 @@
 ### Sprint Goal
 
 __Commitment:__
- _Take as many of the most valuable item(s) from the_ `Product_Backlog` _that you could realistically do in a sprint and commit to doing them in this list. Rephrase them into the sentence structure below for added personal clarity._
- 1. As a ... I want ... So that ... __Points:__ 
 
-__Point Commitment:__
+ 1. Theme: Learn Ruby the Hard Way 
+  - Ex44 Inheritance Vs. Composition __Points:__ 3
+  - Ex45 You Make a Game __Points:__ 5
+  - Ex46 A Project Skeleton __Points:__ 3
+
+__Point Commitment:__ 11
 
 ***
 __About points:__
