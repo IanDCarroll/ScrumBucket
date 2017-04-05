@@ -7,20 +7,40 @@ __Date:__
  3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
 ***
 
-
+***
+__Sprint:__ 1
+__Date:__ 4/5/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Start ex45 You build a game in Learn Ruby the Hard Way
+  - Do some more onboarding stuff
+  - Watch <a href=https://destroyallsoftware.com/talks/boundaries>Gary Bernhardt</a> on Boundaries (take copious notes)
+  - Review Solid Principles (take copious notes)
+  - Learn about Josh Cheek's String Scanner Kata (read Micah Martin's how to guide for katas)
+  - Write a blog about Boundaries
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Aikido in the morning before work.
+  - Talk with Dave about Passionate Programmer 9781934356340
+  - Read <a href="https://8thlight.com/blog/chong-kim/2013/09/26/using-katas-to-improve.html">this blog</a> for more background on Katas
+  - Study the Kata to break it into managable chunks.
+  - Write out the 1st kata code chunk by hand.
+  - Practice it with my tools (learning necessary keyboard shortcuts) until it's on its feet.
+  - Create an overall skeleton of ex45 Learn Ruby the Hard Way if time permits.
+  - Dungeons and Dragons with The Booksellers tonight :bowtie:
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - No, I have all the tools and training necessary to awesome this up. I just have to put them together and make it work.
 ***
 __Sprint:__ 1
 __Date:__ 4/4/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Complete ex44 Inheritance Vs. Composition in Learn Ruby the Hard Way
   - Start basic onboarding proceedures and paperwork for 8th Light.
-  - Watch <a href=http://blog.testdouble.com/posts/2015-11-16-how-to-stop-hating-your-tests.html>Justin Searls</a> on how to not hate your tests (take copious notes)
+  - Watch <a href="http://blog.testdouble.com/posts/2015-11-16-how-to-stop-hating-your-tests.html">Justin Searls</a> on how to not hate your tests (take copious notes)
   - Blog about Justin Searls Video
   - Fight with office Macbooks and try to make them work.
  2. __What Will I do today to help achieve the Sprint Goal?__
   - Continue with onboarding
   - Talk with Dave about Passionate Programmer 9781934356340
-  - Watch <a href=https://destroyallsoftware.com/talks/boundaries>Gary Bernhardt</a> on Boundaries (take copious notes)
+  - Watch <a href="https://destroyallsoftware.com/talks/boundaries">Gary Bernhardt</a> on Boundaries (take copious notes)
   - Review Solid Principles (take copious notes)
   - Start Josh Cheek's String Scanner Kata (read Mike O'Martin's how to guide for katas)
   - Write a blog about Boundaries
