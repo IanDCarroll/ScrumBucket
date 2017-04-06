@@ -11,6 +11,25 @@ __Date:__
 __Sprint:__ 1
 __Date:__ 4/5/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Talk to Dave about Passionate Programmer
+  - Onboarding
+  - Read <a href="https://8thlight.com/blog/chong-kim/2013/09/26/using-katas-to-improve.html">this blog</a>
+  - Study Kata and break it into manageable chunks for learning.
+  - Study strscan in ruby docs and find out how it works.
+  - Write out first chunk of kata by hand. on paper.
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Setup rvm and learn how to use it
+  - Be able teach others what a gem set is
+  - Use a custom gem set to package gems for the kata
+  - Setup guard for the kata
+  - Read chapter 7 of Clean Code 9780132350884
+  - Write a skeleton for ex45 Learn Ruby the Hard Way
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - The first four should be no problem. If there is extra time, I'll use it for reading and LRTHW.
+***
+__Sprint:__ 1
+__Date:__ 4/5/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Start ex45 You build a game in Learn Ruby the Hard Way
   - Do some more onboarding stuff
   - Watch <a href=https://destroyallsoftware.com/talks/boundaries>Gary Bernhardt</a> on Boundaries (take copious notes)
