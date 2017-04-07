@@ -9,7 +9,26 @@ __Date:__
 
 ***
 __Sprint:__ 1
-__Date:__ 4/5/17
+__Date:__ 4/7/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Set up skeleton for ex45 Learn Ruby the Hard Way
+  - Set up rvm and learn what it is
+  - Be capable of teaching what a gemset is and what it's good for
+  - Create a custom Gemset for use in the StringScanner kata
+  - Get guard-rspec up and running for the kata
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Read docs on guard and guard-rspec to get familiar with what they're doing in my kata
+  - find out what behavior of these changed for Josh Cheek in his performace
+  - See if I can achieve the same behavioral change
+  - Practice first act of Kata (to 1:50) until its on its feet
+  - Meet with Andrew to plan our project for charity client
+  - Read Clean Code 978132350884 Chapter 8 - Boundaries
+  - Refactor the skeleton of ex45 Learn Ruby the Hard Way 9780321884992
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - I might not get to the two books today, but I must rewally try to at least get the setup done for the kata and spend at least an hour practicing.
+***
+__Sprint:__ 1
+__Date:__ 4/6/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Talk to Dave about Passionate Programmer
   - Onboarding
