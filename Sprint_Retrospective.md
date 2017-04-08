@@ -13,3 +13,12 @@ __Sprint:__
   - __Why?__
  - __What actions will you take next sprint to make it better?__
 ***
+
+***
+__Sprint:__ 1
+ - __Overall impressions of the sprint:__ First week, so everthing's new.
+ - __What went well?__ I think it went ok...
+ - __What didn't go well?__ It's difficult to say how much progress I'm making though. I don't have a complete roadmap of where I'm going, so it's difficult to gauge my progress. It was mostly about starting a good workflow. I'm not sure enough time has passed for me to really tell. this could be an indicator that I need to switch to 10 day sprints rather than 5. Not enough data points. I'll monitor this and see if that needs changing.
+ - __What actions will you take next sprint to make it better?__
+Keep on keepin' on. Monitor how it goes and see if 10 days is a more natural breathing point than 5.
+***
