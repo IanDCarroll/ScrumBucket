@@ -2,12 +2,21 @@
 
 __Commitment:__
 
- 1. Theme: Learn Ruby the Hard Way 
-  - Ex44 Inheritance Vs. Composition __Points:__ 3
+ 1. Theme: StringScanner Code Kata
+  - ready act 1 __points:__ 5
+  - ready act 2 __points:__ 3
+  - ready act 3 __points:__ 3
+  - ready act 4 __points:__ 3
+  - ready act 5 __points:__ 3
+  - perform it all together __points:__ 5
+ 2. YEP project
+  - Needs planning. __points:__ ???
+ 2. Theme: Learn Ruby the Hard Way 
   - Ex45 You Make a Game __Points:__ 5
-  - Ex46 A Project Skeleton __Points:__ 3
 
-__Point Commitment:__ 11
+
+__Point Commitment:__ 27+
+
 
 ***
 __About points:__
