@@ -8,6 +8,20 @@ __Date:__
 ***
 
 ***
+__Sprint:__ 2
+__Date:__ 4/10/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Set up workflow and begin practice of code kata
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Ready act 1 (1.5 hrs)
+  - Ready act 2 (1.5 hrs)
+  - Ready act 3 (1.5 hrs)
+  - Ready act 4 (1.5 hrs)
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - This may be way over ambitious. But I'll try, and if it's totally horrible I'll know pretty soon. Once I get a firm idea of what's possible, I'll update Dave and Richard on my progress.
+***
+
+***
 __Sprint:__ 1
 __Date:__ 4/7/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
