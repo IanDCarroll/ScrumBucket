@@ -9,6 +9,17 @@ __Date:__
 
 ***
 __Sprint:__ 2
+__Date:__ 4/11/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Practice act 1 of code Kata
+  - Sprint Planning for charity project
+  - Chapter 1 of Ruby on Rails Tutorial by Michael Hartl
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Get through as much of the Ruby on Rails Tutorial as I can (3 chapters, optimistically)
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - No blockers. :smile:
+***
+__Sprint:__ 2
 __Date:__ 4/10/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Set up workflow and begin practice of code kata
