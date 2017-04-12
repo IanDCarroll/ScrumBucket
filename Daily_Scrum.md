@@ -9,6 +9,19 @@ __Date:__
 
 ***
 __Sprint:__ 2
+__Date:__ 4/12/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Got through chapter 2 and part of 3 in Ruby on Rails Tutorial
+  - Pair to get a basic rails repo into source control
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Get basic rails app up and running on heroku. (pair)
+  - Add first iteration of landing page to rails app. (pair)
+  - Meet with client to discuss what we have so far and where to go next.
+  - Complete at least one of the static pages and add it to the app.
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - No blockers, I think I've got enough rails familiarity to figure out what I don't know.
+***
+__Sprint:__ 2
 __Date:__ 4/11/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Practice act 1 of code Kata
