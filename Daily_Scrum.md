@@ -7,6 +7,20 @@ __Date:__
  3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
 ***
 
+
+***
+__Sprint:__ 2
+__Date:__ 4/13/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+ - Get landing page sytled and created
+ - Meet with client to clarify requirements and set up PO role
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+ - Make sure the stories we are working on meet our definition of done
+ - try to get everything but the userauth story complete for the sprint
+ - Learn more about rails in off time
+ - 30 minutes at the end of the day: Set up Medium blog
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+ - No blockers. I'm learning I can do less than I think I can. Better plan with that in mind. Perhaps retrospect to see if there's something I can do to use my time better.
 ***
 __Sprint:__ 2
 __Date:__ 4/12/17
