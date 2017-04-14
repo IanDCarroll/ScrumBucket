@@ -7,7 +7,20 @@ __Date:__
  3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
 ***
 
-
+***
+__Sprint:__ 2
+__Date:__ 4/14/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Meet with other vendor to determine boundaries mocks and stubs
+  - Figure out new problems with scope
+  - Set up blog and post some articles
+  - Get most of the requirements for user stories minus user authentication
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Continue to find the best way to get vendor's test result to our db under the right user
+  - Pair on getting the rest of the sprint's stories done-done (minus user authentication)
+  - Post another blog
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - There are blockers with rails, PRs, spending a lot of time trying to solve future problems (which, admittedly need to get solved soon) But we should be able to do this. There is only 1 more day in our sprint, so we need to get these things completed.
 ***
 __Sprint:__ 2
 __Date:__ 4/13/17
