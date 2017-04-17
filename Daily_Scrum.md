@@ -7,6 +7,21 @@ __Date:__
  3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
 ***
 
+
+***
+__Sprint:__ 2
+__Date:__ 4/17/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Post another blog
+  - Pair on getting all but the userauth story and its dependencies done
+  - Propose a sane way that we can integrate our app with the others
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Pair on completing the user-auth story
+  - Find a way to authenticate LA city zip codes as part of user-auth
+  - Write up a decent README for the project
+  - Write a blog
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - The step of cloning and getting the app running locally is a little daunting. But it shouldn't be too much of a problem.
 ***
 __Sprint:__ 2
 __Date:__ 4/14/17
