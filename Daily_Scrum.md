@@ -7,7 +7,22 @@ __Date:__
  3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
 ***
 
-
+***
+__Sprint:__ 2
+__Date:__ 4/18/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Get basics of userauth completed
+  - An epic yakshave of rails on linux
+  - Blog about yakshave
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Fix bugs in userauth
+  - Style userauth if there's time
+  - add zip code if there's still time (unlikely)
+  - demo iteration to client
+  - Plan next sprint
+  - Retrospective of first team sprint
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Any more snags like yesterday, then yes. We need to have this thing bug free to demo. Otherwise it'll be like going up on stage not knowing your lines on opening night...
 ***
 __Sprint:__ 2
 __Date:__ 4/17/17
