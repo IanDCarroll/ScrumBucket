@@ -7,6 +7,20 @@ __Date:__
  3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
 ***
 
+
+__Sprint:__
+__Date:__
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Style and get together finishing touches on sprint goal
+  - Demo product to client
+  - Plan for next sprint
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Set up a time to talk with other vendors working on the project asap
+  - Clean up git history
+  - Refactor code base
+  - Add static page to project for find-a-job when user has not signed in yet
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - The big questions and the hard stuff to do for the project revolves around getting information from the other veondors and the sooner we can do that the better. The rest of it is "meanwhile" projects. But we need to find a solution and startworking on these big worries sooner rather than later.
 ***
 __Sprint:__ 2
 __Date:__ 4/18/17
