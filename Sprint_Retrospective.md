@@ -15,6 +15,16 @@ __Sprint:__
 ***
 
 ***
+__Sprint:__ 2
+ - __Overall impressions of the sprint:__ A decent start, but kinda rocky.
+ - __What went well?__ Got most of what was needed done. The few things we failed to complete were less important. We still only have 3 more sprints to go on this, so this is very rapid-fire to start off. Such is life.
+ - __What didn't go well?__ To be expected, it was rockier than I would have liked. We didn't pair as much as I would have hoped, so we're going to make that a priority next sprint. Also, I had a tendency to panic and not do propper tests or clean code practices. Also I feel out of my depth because we're working with stuff I've never worked with before. But I imagine that will be the case forever. It's just before it was happening on my time, now it's happening on someone else's time and it makes me nervous. I'm anxious to do an awesome job and have all the answers. But that's unrealistic. I think things are going as well as they can.
+ - __What actions will you take next sprint to make it better?__
+  1. Make pairing time first priority.
+  2. Factor into our estimates enough time to make a clean project.
+  3. Remain calm.
+  4. Be ok with operating in a state of ignorance. It's going fine.
+***
 __Sprint:__ 1
  - __Overall impressions of the sprint:__ First week, so everthing's new.
  - __What went well?__ I think it went ok...
