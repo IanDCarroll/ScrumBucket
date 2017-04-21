@@ -7,9 +7,23 @@ __Date:__
  3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
 ***
 
-
-__Sprint:__
-__Date:__
+***
+__Sprint:__ 3
+__Date:__ 4/20/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Email client about questions regarding integrations with other vendors
+  - Clean up code base
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - further prepare for vendor talk with specific questions
+  - refactor and clean up code base
+  - add better styling to forms
+  - add better test coverage
+  - add static page to Find A Job that redirects to Sign Up
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Be prepared for things to take actual time. They don't happen at the speed of you envisioning them.
+***
+__Sprint:__ 3
+__Date:__ 4/19/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Style and get together finishing touches on sprint goal
   - Demo product to client
