@@ -9,6 +9,20 @@ __Date:__
 
 ***
 __Sprint:__ 3
+__Date:__ 4/24/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - continue pairing on improving the styling
+  - respond to any early communications from vendors
+  - retrospective
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - See if I can snag a mac
+  - Blog
+  - Meet with other vendors to hammer down a clear path toward integration
+  - Pair on stories clarified after the meeting.
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - An unclear result of the meeting will cause serious problems. We NEED it get this to a point of specificity that we can mock out the other vendor responses.
+***
+__Sprint:__ 3
 __Date:__ 4/21/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - further prepare for vendor talk with specific questions
