@@ -9,6 +9,20 @@ __Date:__
 
 ***
 __Sprint:__ 3
+__Date:__ 4/25/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - See if I can snag a mac
+  - Blog
+  - Meet with other vendors to hammer down a clear path toward integration
+  - Pair on stories clarified after the meeting.
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Polish up sprint for iteration 2
+  - Meet for demo
+  - Further evaluate possibilities for last 2 weeks of this project
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - No blockers. But we have to be serious about what we take on if we want to deliver something of value at the end of all this.
+***
+__Sprint:__ 3
 __Date:__ 4/24/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - continue pairing on improving the styling
