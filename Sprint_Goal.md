@@ -2,12 +2,16 @@
 
 __Commitment:__
 
- 1. Youth Employment Pilot Iteration 2
+ 1. Youth Employment Pilot Iteration 3
+  - Get Amavitae integrated into the pilot
+  - Make sure there are clear instructions with a code
+  - Make sure there is an endpoint Amavitae can post to
+  - Make sure career recommendations are posted to the DB and displayed for the user
  2. Blog 3 times
  3. Read 2 Chapters of Clean Code
 
 
-__Point Commitment:__ ???
+__Point Commitment:__ 19
 
 
 ***
