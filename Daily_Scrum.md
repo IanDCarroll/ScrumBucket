@@ -9,6 +9,16 @@ __Date:__
 
 ***
 __Sprint:__ 3
+__Date:__ 4/28/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Implement the code generator for external_id
+  - Build the database for career recommendations and associate it with user table
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Build the POST listener for the api endpoint where career recommendations will come in.
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - No blockers
+***
+__Sprint:__ 3
 __Date:__ 4/27/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Clean up git repository and merge all PRs
