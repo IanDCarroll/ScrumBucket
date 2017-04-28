@@ -9,6 +9,29 @@ __Date:__
 
 ***
 __Sprint:__ 3
+__Date:__ 4/27/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Clean up git repository and merge all PRs
+  - Start on generation of shared_id to integrate other vendors
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Implement the code generator for external_id
+  - Build the database for career recommendations and associate it with user table
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Merge conflicts and long yakshaves over false negatives in the test suite
+***
+__Sprint:__ 3
+__Date:__ 4/26/17
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Polish up sprint for iteration 2
+  - Meet for demo
+  - Further evaluate possibilities for last 2 weeks of this project
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Clean up git repository and merge all PRs
+  - Start on generation of shared_id to integrate other vendors
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Spending a lot of time on merge conflicts and cleaning up our git history.
+***
+__Sprint:__ 3
 __Date:__ 4/25/17
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - See if I can snag a mac
