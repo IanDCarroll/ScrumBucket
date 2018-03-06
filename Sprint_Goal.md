@@ -1,20 +1,7 @@
 ### Sprint Goal
 
-__Commitment:__
+ _Take as many of the most valuable item(s) from the_ `Product_Backlog` _that you could realistically do in a sprint and commit to doing them in this list. Rephrase them into the sentence structure below for added personal clarity._
 
- 1. Youth Employment Pilot Iteration 3
-  - Get Amavitae integrated into the pilot
-  - Make sure there are clear instructions with a code
-  - Make sure there is an endpoint Amavitae can post to
-  - Make sure career recommendations are posted to the DB and displayed for the user
- 2. Blog 3 times
- 3. Read 2 Chapters of Clean Code
-
-
-__Point Commitment:__ 19
-
-
-***
 __About points:__
 Point the items your committing to as follows:
 
@@ -26,3 +13,9 @@ Point the items your committing to as follows:
  - __13 - Monstrous:__ It will take you at least the whole sprint to do this and it might not get done even then. Consider breaking 13s into smaller more doable tasks.
 
 Points don't reflect time scales. I know I used time scales here, but you're free to change them to whatever makes sense for you. You cannot compare your points to other people's points in an effort to compare your productivity. It is entirely subjective, but still useful for comparing your past results to your present productivity and making decisions about what to change to optimize it. Ultimately the points are a metric, and should be viewed as only a guide to reality. _They don't represent your actual productivity!!_ They just help as a soft data-point in your analysis. Do not make the fakey-made-up numbers your god and sacrifice real productivity to them! Otherwise, have fun! ::smile::
+***
+__Sprint:__
+- __Story Commitments:__
+ 1. As a ... I want ... So that ... __Points:__
+- __Total Point Commitment:__
+***
