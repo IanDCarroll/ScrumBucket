@@ -16,6 +16,14 @@ Points don't reflect time scales. I know I used time scales here, but you're fre
 ***
 __Sprint:__
 - __Story Commitments:__
- 1. As a ... I want ... So that ... __Points:__
-- __Total Point Commitment:__
+
+ 1. As an Embedded Crafter I want to have a kit for an open 3D printer So that I can learn how machinery and code work together, so that I can more easily replace and improve components, and so that I have a more efficient means of printing objects. __Points:__ 2
+
+ 2. As a Software Advocate I want a solid set of A/V equipment So that I can record talks to distribute online and make a name for myself and my company.
+ __Points:__ 3
+
+ 3. As a Community Organizer I want to turn my daily waza into a meetup so that I can encourage others to learn along side me and build a point of regular contact in the software community.
+__Points:__ 3
+
+- __Total Point Commitment:__ 8
 ***
