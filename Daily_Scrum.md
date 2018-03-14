@@ -11,6 +11,23 @@ __Date:__
 
 ***
 __Sprint:__ 1
+
+__Date:__ 3/13/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+ - Shop for A/V equipment
+ - Get Feedback for A/V equipment from experts and Amanda
+ - Communicate with Ray about my vision and 8th Light's benefit
+ - Integrate that vision into Ray's vision for the 8th Light office
+ - Get the ball rolling about getting A/V equipment from Ray, online, and perhaps from 8th Light
+ - Get the ball rolling about setting up OpenWaza at 8th Light
+ - Order a 3D printer kit
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+ - Assemble a final wish-list of A/V equipment to buy at the drop of a hat
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+ - The final acquisition of A/V equipment will depend on other humans. I'll time box that til mid-April. If no progress has been made, I'll go ahead and make a purchase at that time.
+ - OpenWaza Meetup has initial approval from Ray! I'll need to wait for him to bring the other 8th Light organizers onboard before I can pull the trigger. I'll give him a friendly reminder on Friday if he hasn't acted by then.
+ - The ball is being hit across the net as soon as possible. To not waste the wait-time, I'll start setting up everything else so that as soon as I know yes-or-know I'm ready to go.
+
 __Date:__ 3/12/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
  - Populate the backlog
