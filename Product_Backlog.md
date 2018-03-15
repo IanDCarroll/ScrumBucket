@@ -7,6 +7,10 @@ __Current Priorities__
 - Video-record all talks
 - Build a better 3D printer
 
+- Work through "Deep Learning with Python"
+- Blog post on Personal Retrospectives
+- Read Consulting Secrets
+
 __Hard Skills__
 - Attend a conference on Embedded Systems, Robotics, IoT, Rust, or all of the above
 - Crafter exchange to another office on a relevant project
@@ -47,6 +51,11 @@ __Well-Known__
 - Blog post on Personal Retrospectives
 - Blog post on Asynchronous Scrum
 - Lightening talk on DaXue and Consulting
+- Lightening talk on ZhongYong and Consulting
+- Lightening talk on the 5 Elements and Consulting
+- Lightening talk on the 4 Noble flowers and Consulting
+- Lightening talk on Li Qi Xiang and the role of principles and process in software
+- Lightening talk on Pair Programming and Improv Skills
 - Video-record all talks
 - Create a blog or talk for every waza
 - New Uncle Bob replacement video series starring Amanda
@@ -54,6 +63,7 @@ __Well-Known__
 
 __Teacher__
 - Read Consulting Secrets
+- Read Mythical Man-month
 - Refresh Full-Stack meetup
 - Turn the daily waza into a meetup
 - Tech Speaker's Workshop meetup
