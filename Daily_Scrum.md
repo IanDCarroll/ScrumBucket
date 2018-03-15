@@ -12,6 +12,14 @@ __Date:__
 ***
 __Sprint:__ 1
 
+__Date:__ 3/14/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+ - Assemble a final wish-list of A/V equipment to buy at the drop of a hat
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+ - Backlog grooming
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+ - No blockers
+
 __Date:__ 3/13/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
  - Shop for A/V equipment
