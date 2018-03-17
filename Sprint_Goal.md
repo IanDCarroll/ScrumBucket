@@ -17,6 +17,30 @@ Points don't reflect time scales. I know I used time scales here, but you're fre
 __Sprint:__
 - __Story Commitments:__
 
+ 1.  __Points:__
+
+- __Total Point Commitment:__
+***
+
+***
+__Sprint:__ 2
+- __Story Commitments:__
+
+ 1. As a DTLA coder, I want to know about 8th Light's hack night meetup, so that I can go hack with the crafters at 8th Light. (Meetup is written, announced, and on social media) __Points:__ 3
+
+ 2. As a developer prepping for a talk, I need to have A/V equipment available so that I can record.  (Followup on MVP a/v solutions) __Points:__ 1
+
+ 3. As an attendee of Q1 MiniConf, I want a talk about possibilities with Machine Learning, so that I can have a better understanding of this field __Points:__ 5
+
+ 4. Aikido __Points__ 3
+
+- __Total Point Commitment:__ 12
+***
+
+***
+__Sprint:__ 1
+- __Story Commitments:__
+
  1. As an Embedded Crafter I want to have a kit for an open 3D printer So that I can learn how machinery and code work together, so that I can more easily replace and improve components, and so that I have a more efficient means of printing objects. __Points:__ 2
 
  2. As a Software Advocate I want a solid set of A/V equipment So that I can record talks to distribute online and make a name for myself and my company.
