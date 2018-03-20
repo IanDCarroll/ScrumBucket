@@ -10,6 +10,19 @@ __Date:__
 ***
 
 ***
+__Sprint:__ 2
+__Date:__ 3/19/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+ - Sprint Review
+ - Sprint Retrospective
+ - Sprint Planning
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+ - Write up Meetup for Raspberry Pi
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+ - Needing to create the Raspberry Pi Meetup means that I'll have to push the Waza Hack Night Meetup creation back to next sprint. There's still time though.
+***
+
+***
 __Sprint:__ 1
 
 __Date:__ 3/14/18
