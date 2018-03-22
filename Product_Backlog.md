@@ -51,7 +51,12 @@ __Well-Known__
 - Have a Meetup Talk accepted at a Conference
 - Blog post on Daily Standups for one
 - Blog post on Personal Retrospectives
+- Blog post on Vision Statements and Backlogs
+- Blog post on Being your own ScrumMaster: hint - work in public
+- Blog post on Being your own Product Owner: hint - don't always make faster horses
+- Blog post on setting up your first personal scrum
 - Blog post on Asynchronous Scrum
+- Blog post on converting a team to Agile using Agile
 - Lightening talk on DaXue and Consulting
 - Lightening talk on ZhongYong and Consulting
 - Lightening talk on the 5 Elements and Consulting
