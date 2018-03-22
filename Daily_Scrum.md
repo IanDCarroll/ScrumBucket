@@ -11,6 +11,17 @@ __Date:__
 
 ***
 __Sprint:__ 2
+__Date:__ 3/21/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+ - Follow up about A/V Equipment
+ - Review and read more into Deep Learning Algorithms for Miniconf talk.
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+ - Assemble Deep Learning slides for MiniConf talk
+ - Write up Meetup for Waza Hack Nights
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+ - Flustered from the day's work. Also my stomach is growly. I'll need to focus. Even so, I'll likely only get the slides done. This is a little much considering how I've done so far.
+
+__Sprint:__ 2
 __Date:__ 3/20/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
  - Write up Meetup for Raspberry Pi
@@ -36,7 +47,7 @@ __Date:__ 3/19/18
 ***
 __Sprint:__ 1
 
-__Date:__ 3/14/18
+__Date:__ 3/16/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
  - Backlog grooming
  2. __What Will I do today to help achieve the Sprint Goal?__
