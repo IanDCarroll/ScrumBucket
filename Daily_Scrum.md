@@ -11,6 +11,16 @@ __Date:__
 
 ***
 __Sprint:__ 2
+__Date:__ 3/22/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+ - Assemble Deep Learning slides for MiniConf talk
+ - Write up Meetup for Waza Hack Nights
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+ - Aikido
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+ - Kind of don't want to go. Feeling lazy or tired. If I can't walk over to the dojo by 15 minutes before class I'm not going. I hate being embarrassed by being late.
+
+__Sprint:__ 2
 __Date:__ 3/21/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
  - Follow up about A/V Equipment
