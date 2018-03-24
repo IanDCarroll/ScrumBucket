@@ -5,7 +5,6 @@ _List every feature you want to have here. You can order them now, or later. You
 __Current Priorities__
 - Go to LOPSA's Shell Basics Lecture
 
-- Turn Daily Waza into a Meetup
 - Video-record all talks
 - Build a better 3D printer
 

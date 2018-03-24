@@ -22,6 +22,22 @@ __Sprint:__
 - __Total Point Commitment:__
 ***
 
+__Sprint:__ 3
+- __Story Commitments:__
+
+ 1. As a teacher and community leader, I want to plan and conduct an excellent Raspberry Pi meetup, so that I can learn more about embedded programming and set myself in the role of an expert and leader, and bring benefit to the attendees and those who the attendees know. __Points:__ 5
+
+ 2. As someone interested in embedded programming, I want to go to LOPSA's Shell Basics Lecture, So that I can understand how the shell relates to the OS and what that can mean in the context of embedded systems. __Points:__ 5
+
+ 3. As a mentor and advocate for personal scrums, I want to write a first draft on the topic of retrospectives so that I can be put in a position of leadership and share the value of personal scrums and retrospectives. __Points:__ 3
+
+ 4.  Aikido __Points:__ 3
+
+ 5.  Improv __Points:__ 3
+
+- __Total Point Commitment:__ 19
+***
+
 ***
 __Sprint:__ 2
 - __Story Commitments:__
