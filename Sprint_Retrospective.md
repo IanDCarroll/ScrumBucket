@@ -15,6 +15,25 @@ __Sprint:__
 ***
 
 ***
+__Sprint:__ 2
+ - __Overall impressions of the sprint:__ I did quite a lot this sprint. Everything was accomplished and more. It's been very positive.
+ - __What went well?__ Even though I did not expect to have time for everything, there was time to get it all in, thanks to taking advantage of what otherwise would have been wasted time.
+ - __What didn't go well?__ Sleep is apparently a need. Not to mention cognitive and emotional strain from the day's work. That adds to the sense of exhaustion. But I didn't miss Aikido this time. So Obviously I'm getting things working better.
+  - __Why?__
+   - Last week I averaged 5:36 per night of sleep. (fitbit) This week was 6:03.
+  - __Why?__
+   - I paid attention to the amount of sleep I'm getting.
+  - __Why?__
+   - Because I listened to last week's retrospective.
+  - __Why?__
+   - Because I have made a habit of having a retrospective after every sprint.
+  - __Why?__
+   - Beacuse this is how I improve my process.
+ - __What actions will you take next sprint to make it better?__
+  - Try to expand sleep to average 6:30 per night. That should make me cheerier.
+***
+
+***
 __Sprint:__ 1
  - __Overall impressions of the sprint:__ A pretty good start!
  - __What went well?__
