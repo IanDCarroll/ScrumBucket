@@ -11,6 +11,21 @@ __Date:__
 
 ***
 __Sprint:__ 2
+__Date:__ 3/24/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+ - Aikido
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+ - Improv
+ - Purchase Camera
+ - Talk to experts about A/V setups and Twitch streams
+ - Sprint 2 Review
+ - Sprint 2 Retrospective
+ - Sprint 3 Planning
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+ - No blockers
+
+
+__Sprint:__ 2
 __Date:__ 3/22/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
  - Assemble Deep Learning slides for MiniConf talk
