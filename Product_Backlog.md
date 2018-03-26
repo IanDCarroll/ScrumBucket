@@ -48,7 +48,6 @@ __Well-Known__
 - Meetup Talk: Personal Scrum
 - Meetup Talk: AnnoyingJS
 - Have a Meetup Talk accepted at a Conference
-- Blog post on Daily Standups for one
 - Blog post on Personal Retrospectives
 - Blog post on Vision Statements and Backlogs
 - Blog post on Being your own ScrumMaster: hint - work in public
@@ -56,6 +55,8 @@ __Well-Known__
 - Blog post on setting up your first personal scrum
 - Blog post on Asynchronous Scrum
 - Blog post on converting a team to Agile using Agile
+- Blog post on Process Smells ("Agile doesn't work in our context")
+- Blog post on complaining vs constructive bottleneck discovery
 - Lightening talk on DaXue and Consulting
 - Lightening talk on ZhongYong and Consulting
 - Lightening talk on the 5 Elements and Consulting
@@ -71,7 +72,6 @@ __Teacher__
 - Read Consulting Secrets
 - Read Mythical Man-month
 - Refresh Full-Stack meetup
-- Turn the daily waza into a meetup
 - Tech Speaker's Workshop meetup
 - Free Agile Workshops for current and potential clients w/ Andy
 - UnConference in LA (WazaConf) w/ Jason
