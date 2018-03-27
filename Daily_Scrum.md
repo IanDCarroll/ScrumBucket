@@ -10,6 +10,18 @@ __Date:__
 ***
 
 ***
+
+__Sprint:__ 3
+__Date:__
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Write first draft of retrospective blog Post
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Attend a meetup on Shell under the hood
+  - Make sure we have everything we need for RPi day
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Traffic. I've started work early to account for it.
+  - I've noticed when I have to rely on others to gather necessary equipment for meetups, really important details are often overlooked. The main elements are there, but there's one critical small component that is not, and that stops the entire operation. I'm going to look into making sure those little parts are there. If not, I can get some on my way to the meetup. Otherwise, we'll likely have to hack something together, which I am never fond of and always embarrassed by.
+
 __Sprint:__ 3
 __Date:__ 3/26/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
