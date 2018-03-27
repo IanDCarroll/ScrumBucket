@@ -10,6 +10,22 @@ __Date:__
 ***
 
 ***
+__Sprint:__ 3
+__Date:__ 3/26/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+ - Improv
+ - Purchase Camera
+ - Talk to experts about A/V setups and Twitch streams
+ - Sprint 2 Review
+ - Sprint 2 Retrospective
+ - Sprint 3 Planning
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+ - Write first draft of retrospective blog Post
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+ - Feeling some pressure and resentment regarding the lack of preparation for Wednesday's Raspberry Pi Meetup. Wondering if this is really something my Product Owner (me) thinks is critical, or if instead this is a failure on his part to not cave in to feature requests and protect the boundary of concerns between commitments to others and personal development.
+***
+
+***
 __Sprint:__ 2
 __Date:__ 3/24/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
