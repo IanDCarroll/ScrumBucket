@@ -58,6 +58,8 @@ __Well-Known__
 - Blog post on Process Smells ("Agile doesn't work in our context")
 - Blog post on complaining vs constructive bottleneck discovery
 - Blog post on why post it notes are better than Jira
+- Blog post on Bringing unconnected things into software is the reason I have a job
+- Blog post on Improv and setting a safe space in Mob & Pair Programming
 - Lightening talk on DaXue and Consulting
 - Lightening talk on ZhongYong and Consulting
 - Lightening talk on the 5 Elements and Consulting
