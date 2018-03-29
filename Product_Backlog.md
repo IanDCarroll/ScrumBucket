@@ -57,6 +57,7 @@ __Well-Known__
 - Blog post on converting a team to Agile using Agile
 - Blog post on Process Smells ("Agile doesn't work in our context")
 - Blog post on complaining vs constructive bottleneck discovery
+- Blog post on why post it notes are better than Jira
 - Lightening talk on DaXue and Consulting
 - Lightening talk on ZhongYong and Consulting
 - Lightening talk on the 5 Elements and Consulting
