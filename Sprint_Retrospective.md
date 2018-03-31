@@ -15,6 +15,16 @@ __Sprint:__
 ***
 
 ***
+__Sprint:__ 3
+ - __Overall impressions of the sprint:__ I did well, but I've still got a sleep issue
+ - __What went well?__ In addition to doing the meetup, I also snuck an extra story in about the Raspberry Pi SenseHat. Expanded the amount of sleep I'm getting 6:35
+ - __What didn't go well?__ The lack of sleep on Wednesday night (5:33) forced me to cancel Aikido practice. I know why. It's still not enough sleep, especially since I got home late after the meetup.
+ - __What actions will you take next sprint to make it better?__
+  - Expand sleep to at least 7 hours on Wednesday night, the night before Aikido.
+  - Work a 10 hour day before any Wednesday meetup. Sleep in an extra two hours Thursday morning.
+***
+
+***
 __Sprint:__ 2
  - __Overall impressions of the sprint:__ I did quite a lot this sprint. Everything was accomplished and more. It's been very positive.
  - __What went well?__ Even though I did not expect to have time for everything, there was time to get it all in, thanks to taking advantage of what otherwise would have been wasted time.
