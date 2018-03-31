@@ -4,13 +4,29 @@ _1. Calculate the point difference between last sprint and this one._
 _2. Push that number to the front of this list_
 _This is so you can identify trends and maintain stability in your productivity over time._
 
-__Point velocity change Log__ []
+__Point velocity change Log__ [18, 12, 8]
 
 _Use this template to showcase your completed work this sprint._
 ***
 __Sprint:__
  - __What did you complete this sprint?__
  - __Why is it valuable?__
+***
+
+***
+__Sprint:__ 3
+ - __What did you complete this sprint?__
+  - Improv - 3
+  - Got the Sense Hat up and Running on Raspberry Pi - 2
+  - Conducted the Raspberry Pi Meetup - 5
+  - Attended LOPSA Shell Basics Lecture - 5
+  - Write a First Draft on Retropsectives - 3
+ - __Why is it valuable?__
+  - Improv makes me a leader in the software world on public speaking
+  - Now that I have the sense hat up and running, I can start to find ways to integrate it with my tic tac toe app
+  - Conducting the meetup helped to frame me as a leader - and it helped other people who were attending
+  - Knowing how the shell interacts with the kernel is extremely powerful, especially when interacting with embedded systems which may not have a shell or a kernel
+  - The first draft on retrospectives was really great for breaking the ice on the subject with my team and for making a clear case on why they're valuable
 ***
 
 ***
