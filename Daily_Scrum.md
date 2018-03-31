@@ -11,6 +11,21 @@ __Date:__
 
 ***
 __Sprint:__ 3
+__Date:__ 3/30/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Conduct raspberry Pi meetup
+  - Setup standard AstroPi on Raspberry Pi
+  - Slept instead of going to Aikido
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Sprint 3 Review
+  - Sprint 3 Retrospective
+  - Sprint 4 Planning
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - no blockers
+***
+
+***
+__Sprint:__ 3
 __Date:__ 3/28/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Attend a meetup on Shell under the hood
