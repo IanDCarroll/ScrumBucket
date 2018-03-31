@@ -14,12 +14,18 @@ Point the items your committing to as follows:
 
 Points don't reflect time scales. I know I used time scales here, but you're free to change them to whatever makes sense for you. You cannot compare your points to other people's points in an effort to compare your productivity. It is entirely subjective, but still useful for comparing your past results to your present productivity and making decisions about what to change to optimize it. Ultimately the points are a metric, and should be viewed as only a guide to reality. _They don't represent your actual productivity!!_ They just help as a soft data-point in your analysis. Do not make the fakey-made-up numbers your god and sacrifice real productivity to them! Otherwise, have fun! ::smile::
 ***
-__Sprint:__
+__Sprint:__ 4
 - __Story Commitments:__
 
- 1.  __Points:__
+ 1.  As a new consultant, I want to see a video on 8th Light's YouTube channel on takeaways to a book that many at 8th light have read, Consulting Secrets, so that I can get some tips from the experts __Points:__ 8
 
-- __Total Point Commitment:__
+ 2. As a new embedded engineer, I want to be able to SSH into a raspberry Pi and play Xox3 on the command line, so that I can start to build out how the game will display on the SenseHat __Points:__ 3
+
+ 3.  Aikido __Points:__ 3
+
+ 4.  Improv __Points:__ 3
+
+- __Total Point Commitment:__ 17
 ***
 
 __Sprint:__ 3

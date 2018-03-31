@@ -3,18 +3,20 @@
 _List every feature you want to have here. You can order them now, or later. You'll be constantly reevaluating their order, so maybe no order. Also you may need to break things down into smaller tasks to get them done. Just make the big thing a "theme" and the smaller bits of it are the actual things._
 
 __Current Priorities__
-- Go to LOPSA's Shell Basics Lecture
 
-- Video-record all talks
+- Post Consulting Secrets Takaways talk on YouTube
+- Raspberry Pi SenseHat TicTacToe Game with Go
+
 - Build a better 3D printer
 
 - Work through "Deep Learning with Python"
 - Blog post on Personal Retrospectives
 - Read Consulting Secrets
 
-__Hard Skills__
 - Attend a conference on Embedded Systems, Robotics, IoT, Rust, or all of the above
 - Crafter exchange to another office on a relevant project
+
+__Hard Skills__
 - Work though "Learn C the Hard Way" by Zed Shaw
 - Work through "Learn More Python 3 the Hard Way" by Zed Shaw
 - Work through "Test Driven Development in Embedded C"
@@ -23,8 +25,6 @@ __Hard Skills__
 - Read "Level Up!" To learn how to make a fun UI
 - Create a Machine Perception AI for image identification
 - Port Deep Learning Algorithm to Go
-- Raspberry Pi SenseHat Standard AstroPi w/ python
-- Raspberry Pi SenseHat TicTacToe Game with Go
 - Raspberry Pi Cluster to train a MNK-Game Deep Learning AI
 - Replace TicTacToe Minimax AI with a trained Deep Learning AI
 - Build a drone with an Arduino from a kit or instructions
