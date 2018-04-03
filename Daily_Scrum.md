@@ -10,6 +10,20 @@ __Date:__
 ***
 
 ***
+__Sprint:__ 4
+__Date:__
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Sprint 3 Review
+  - Sprint 3 Retrospective
+  - Sprint 4 Planning
+  - Improv
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Read Chapters 8 through 11 of Consulting Secrets
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Oh, man, I didn't realize exactly how much reading I have left. It's highly likely I won't get to the Raspberry Pi this week.
+***
+
+***
 __Sprint:__ 3
 __Date:__ 3/30/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
@@ -22,9 +36,7 @@ __Date:__ 3/30/18
   - Sprint 4 Planning
  3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
   - no blockers
-***
 
-***
 __Sprint:__ 3
 __Date:__ 3/28/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
