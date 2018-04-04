@@ -48,7 +48,8 @@ __Hard Skills__
 - Build a robot arm that plays chess against a human with the office chess set
 
 __Well-Known__
-- Meetup Talk: Personal Scrum
+- Develop the FTL talk format - Faster-than-Lightening talk
+- Meetup Talk: Personal Scrum - Scrumdog Millionaire
 - Meetup Talk: AnnoyingJS
 - Have a Meetup Talk accepted at a Conference
 - Blog post on Personal Retrospectives
