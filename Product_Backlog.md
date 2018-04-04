@@ -16,6 +16,8 @@ __Current Priorities__
 - Attend a conference on Embedded Systems, Robotics, IoT, Rust, or all of the above
 - Crafter exchange to another office on a relevant project
 
+- Internal Lightening talk on chapter 11 The Secrets of Consulting
+
 __Hard Skills__
 - Work though "Learn C the Hard Way" by Zed Shaw
 - Work through "Learn More Python 3 the Hard Way" by Zed Shaw
@@ -75,6 +77,7 @@ __Teacher__
 - Read Consulting Secrets
 - Read Mythical Man-month
 - Refresh Full-Stack meetup
-- Tech Speaker's Workshop meetup
+- 8th Light Lightening Talk Laboratory meetup
+- LA Tech Talks and Tacos meetup
 - Free Agile Workshops for current and potential clients w/ Andy
 - UnConference in LA (WazaConf) w/ Jason
