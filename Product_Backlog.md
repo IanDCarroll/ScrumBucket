@@ -3,20 +3,21 @@
 _List every feature you want to have here. You can order them now, or later. You'll be constantly reevaluating their order, so maybe no order. Also you may need to break things down into smaller tasks to get them done. Just make the big thing a "theme" and the smaller bits of it are the actual things._
 
 __Current Priorities__
-
-- Post Consulting Secrets Takaways talk on YouTube
-- Raspberry Pi SenseHat TicTacToe Game with Go
-
-- Build a better 3D printer
-
-- Work through "Deep Learning with Python"
-- Blog post on Personal Retrospectives
-- Read Consulting Secrets
-
-- Attend a conference on Embedded Systems, Robotics, IoT, Rust, or all of the above
 - Crafter exchange to another office on a relevant project
+- Raspberry Pi SenseHat TicTacToe Game with Go
+- Build a better 3D printer
+- Work through "Deep Learning with Python"
+- Attend a conference on Embedded Systems, Robotics, IoT, Rust, or all of the above
 
-- Internal Lightening talk on chapter 11 The Secrets of Consulting
+- Youtube Lightning talk on Secrets of Consulting - Mentorship is Consulting
+- Blog post on Personal Retrospectives
+- 8th Light Lightening Talk Laboratory meetup
+- Tech Talks and Tacos (on a Tuesday) meetup - showcase branch for 8L-LTL
+
+- Read The Challenger Sale
+- Become a PDM
+- Read Consulting Secrets
+- Internal Lightning talk on chapter 11 The Secrets of Consulting
 
 __Hard Skills__
 - Work though "Learn C the Hard Way" by Zed Shaw
@@ -74,10 +75,12 @@ __Well-Known__
 - Be interviewed by a podcast
 
 __Teacher__
-- Read Consulting Secrets
+- Take on an Apprentice
 - Read Mythical Man-month
+- Read the Dev Ops Handbook
+- Read The Trusted Advisor
 - Refresh Full-Stack meetup
-- 8th Light Lightening Talk Laboratory meetup
-- LA Tech Talks and Tacos meetup
 - Free Agile Workshops for current and potential clients w/ Andy
 - UnConference in LA (WazaConf) w/ Jason
+- Ask Claudia for recommendations on books about institutional change
+- Grab interesting books from the further reading at the back of Secrets of Consulting
