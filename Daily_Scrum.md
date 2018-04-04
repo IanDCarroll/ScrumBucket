@@ -13,6 +13,18 @@ __Date:__
 __Sprint:__ 4
 __Date:__ 4/3/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Read the rest of Secrets of Consulting
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Outreach to other meetup organizers to get some publicity for the RPi meetup.
+  - Cut the internal test video I took into one reel then compress it so that I can share it.
+  - Set a date for internal Talk on chapter 11
+  - Write an outline for that talk
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Might not get all of this. Outline writing will be a stretch goal. I don't have Saturday again, that's where Aikido is going. I have Thursday instead. 
+
+__Sprint:__ 4
+__Date:__ 4/3/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Read chapters 8 through 10 of Secrets of Consulting
  2. __What Will I do today to help achieve the Sprint Goal?__
   - Read the rest of Secrets of Consulting
