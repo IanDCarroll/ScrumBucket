@@ -11,7 +11,16 @@ __Date:__
 
 ***
 __Sprint:__ 4
-__Date:__
+__Date:__ 4/3/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Read chapters 8 through 10 of Secrets of Consulting
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Read the rest of Secrets of Consulting
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Yep. This is going to be a shakey week. Except I have Saturday again, since Improv is on a hiatus. That might be useful time.
+
+__Sprint:__ 4
+__Date:__ 4/2/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Sprint 3 Review
   - Sprint 3 Retrospective
