@@ -15,6 +15,19 @@ __Sprint:__
 ***
 
 ***
+__Sprint:__ 4
+ - __Overall impressions of the sprint:__ I got a lot done, none of which was a thing I planned for.
+ - __What went well?__ Considering how much happened, a lot of really important developments towards my overall goals.
+ - __What didn't go well?__ None of my stated goals got done.
+  - __Why?__ They were too big.
+  - __Why?__ I let someone else pick them.
+  - __Why?__ Because I didn't maintain my boundaries.
+  - __Why?__ Because I wanted to be liked.
+  - __Why?__ Because I secretly fear that I'm not good enough.
+ - __What actions will you take next sprint to make it better?__ Take some time to tell validate yourself. Take a break from your diet. Treat yourself well this weekend. Everyone else thinks you're fantastic. But it doesn't matter one bit to you if you don't think that about yourself. Treat yourself like a star performer. Then manage your boundaries. You are the PO, not your mentor, not your customers, not your clients, not your company.
+***
+
+***
 __Sprint:__ 3
  - __Overall impressions of the sprint:__ I did well, but I've still got a sleep issue
  - __What went well?__ In addition to doing the meetup, I also snuck an extra story in about the Raspberry Pi SenseHat. Expanded the amount of sleep I'm getting 6:35
