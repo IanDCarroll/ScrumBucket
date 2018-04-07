@@ -4,13 +4,31 @@ _1. Calculate the point difference between last sprint and this one._
 _2. Push that number to the front of this list_
 _This is so you can identify trends and maintain stability in your productivity over time._
 
-__Point velocity change Log__ [18, 12, 8]
+__Point velocity change Log__ [0, 18, 12, 8]
 
 _Use this template to showcase your completed work this sprint._
 ***
 __Sprint:__
  - __What did you complete this sprint?__
  - __Why is it valuable?__
+***
+
+***
+__Sprint:__ 4
+ - __What did you complete this sprint?__
+  - Scheduled crafter visit to Chicago
+  - Be interviewed by a podcast (old, but needs to be added)
+  - Conducting Waza Hack Nights meetup on Mondays
+  - Become a PDM
+  - Read Consulting Secrets
+  - Ask Claudia for recommendations on books on institutional change
+ - __Why is it valuable?__
+  - seeing the other 8th Light offices is just fun.
+  - The interview will increase how well I'm known in the developer community.
+  - Waza Hack nights will add a no cost fame and leadership value addition to my embedded systems learning.
+  - Being a PDB gains me experience as a leader and a consultant.
+  - Reading consulting secrets gives me further insight into being a coach and an agent for change. It also enables me to come up with a few good internal and external talks, including a good first video for the youtube channel.
+  - getting books from Claudia will give me some more tools in how to transform the organizations I work with.
 ***
 
 ***
