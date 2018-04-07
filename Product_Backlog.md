@@ -3,7 +3,6 @@
 _List every feature you want to have here. You can order them now, or later. You'll be constantly reevaluating their order, so maybe no order. Also you may need to break things down into smaller tasks to get them done. Just make the big thing a "theme" and the smaller bits of it are the actual things._
 
 __Current Priorities__
-- Crafter exchange to another office on a relevant project
 - Raspberry Pi SenseHat TicTacToe Game with Go
 - Build a better 3D printer
 - Work through "Deep Learning with Python"
@@ -11,19 +10,16 @@ __Current Priorities__
 
 - Youtube Lightning talk on Secrets of Consulting - Mentorship is Consulting
 - Blog post on Personal Retrospectives
+- Internal Lightning talk on chapter 11 The Secrets of Consulting
+
 - 8th Light Lightening Talk Laboratory meetup
 - Tech Talks and Tacos (on a Tuesday) meetup - showcase branch for 8L-LTL
-
-- Read The Challenger Sale
-- Become a PDM
-- Read Consulting Secrets
-- Internal Lightning talk on chapter 11 The Secrets of Consulting
+- Read the Dev Ops Handbook
 
 __Hard Skills__
 - Work though "Learn C the Hard Way" by Zed Shaw
 - Work through "Learn More Python 3 the Hard Way" by Zed Shaw
 - Work through "Test Driven Development in Embedded C"
-- Work through "Deep Learning with Python"
 - Work through "The Rust Book"
 - Read "Level Up!" To learn how to make a fun UI
 - Create a Machine Perception AI for image identification
@@ -52,36 +48,30 @@ __Well-Known__
 - Meetup Talk: Personal Scrum - Scrumdog Millionaire
 - Meetup Talk: AnnoyingJS
 - Have a Meetup Talk accepted at a Conference
-- Blog post on Personal Retrospectives
 - Blog post on Vision Statements and Backlogs
 - Blog post on Being your own ScrumMaster: hint - work in public
 - Blog post on Being your own Product Owner: hint - don't always make faster horses
 - Blog post on setting up your first personal scrum
 - Blog post on Asynchronous Scrum
 - Blog post on converting a team to Agile using Agile
-- Blog post on Process Smells ("Agile doesn't work in our context")
-- Blog post on complaining vs constructive bottleneck discovery
-- Blog post on why post it notes are better than Jira
+- Blog post on Why Post-it notes are better than Jira
 - Blog post on Bringing unconnected things into software is the reason I have a job
 - Blog post on Improv and setting a safe space in Mob & Pair Programming
-- Lightening talk on DaXue and Consulting
-- Lightening talk on ZhongYong and Consulting
-- Lightening talk on the 5 Elements and Consulting
-- Lightening talk on the 4 Noble flowers and Consulting
-- Lightening talk on Li Qi Xiang and the role of principles and process in software
-- Lightening talk on Pair Programming and Improv Skills
-- Video-record all talks
+- Lightning talk on DaXue and Consulting
+- Lightning talk on ZhongYong and Consulting
+- Lightning talk on the 5 Elements and Consulting
+- Lightning talk on the 4 Noble flowers and Consulting
+- Lightning talk on Li Qi Xiang and the role of principles and process in software
+- Lightning talk on Pair Programming and Improv Skills
 - Create a blog or talk for every waza
 - New Uncle Bob replacement video series starring Amanda
-- Be interviewed by a podcast
+- Be interviewed by Code Newbie podcast
 
 __Teacher__
 - Take on an Apprentice
 - Read Mythical Man-month
-- Read the Dev Ops Handbook
 - Read The Trusted Advisor
 - Refresh Full-Stack meetup
 - Free Agile Workshops for current and potential clients w/ Andy
 - UnConference in LA (WazaConf) w/ Jason
-- Ask Claudia for recommendations on books about institutional change
 - Grab interesting books from the further reading at the back of Secrets of Consulting
