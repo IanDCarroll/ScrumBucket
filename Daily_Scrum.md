@@ -10,6 +10,22 @@ __Date:__
 ***
 
 ***
+__Sprint:__ 5
+__Date:__ 4/9/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Write an outline for the first lightning talk of the new youtube channel
+  - Sprint 4 Review
+  - Sprint 4 Retrospective
+  - Sprint 5 Planning
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Begin tweeting my Waza
+  - Turn the outline into a google slide deck for the first talk on the 8th Light Youtube Channel
+  - Video record retrospective format for my team
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - No blockers
+***
+
+***
 __Sprint:__ 4
 __Date:__ 4/3/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
