@@ -15,6 +15,7 @@ __Current Priorities__
 - 8th Light Lightening Talk Laboratory meetup
 - Tech Talks and Tacos (on a Tuesday) meetup - showcase branch for 8L-LTL
 - Read the Dev Ops Handbook
+- Read Better than Before
 
 __Hard Skills__
 - Work though "Learn C the Hard Way" by Zed Shaw
@@ -71,7 +72,10 @@ __Teacher__
 - Take on an Apprentice
 - Read Mythical Man-month
 - Read The Trusted Advisor
+- Read Made to Stick
 - Refresh Full-Stack meetup
 - Free Agile Workshops for current and potential clients w/ Andy
 - UnConference in LA (WazaConf) w/ Jason
 - Grab interesting books from the further reading at the back of Secrets of Consulting
+- Vim-foo Dojo meetup
+- Technical Interview Prep meetup
