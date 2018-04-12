@@ -11,6 +11,15 @@ __Date:__
 
 ***
 __Sprint:__ 5
+__Date:__ 4/12/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Turn google slide deck into a first-take talk for the 8th Light Youtube Channel
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Physical Improv
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - No blockers
+
+__Sprint:__ 5
 __Date:__ 4/11/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Slept. I had to go get something fixed at the auto shop.
