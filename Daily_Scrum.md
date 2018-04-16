@@ -11,6 +11,15 @@ __Date:__
 
 ***
 __Sprint:__ 5
+__Date:__ 4/14/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Perform in a show at the improv theatre
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Aikido
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - No blockers
+
+__Sprint:__ 5
 __Date:__ 4/13/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Physical Improv
