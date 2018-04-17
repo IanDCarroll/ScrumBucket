@@ -16,6 +16,23 @@ Points don't reflect time scales. I know I used time scales here, but you're fre
 
 
 ***
+__Sprint:__ 6
+- __Story Commitments:__
+
+ 1.  As a new consultant, I want to develop a talk about chapter 11 of secrets of consulting, the chapter on marketing, because I think it's really important to share this with the rest of the office. __Points:__ 5
+
+ 2. As a new embedded engineer, I want to be able to use the SenseHat with a Go library so that I can use it for a new display for tic tac toe __Points:__ 3
+
+ 3. As a teacher and mentor, I want to have read Better than Before so that I can be an agent of change in the companies I touch and the mentees I teach. __Points:__ 5
+
+ 4.  Aikido __Points:__ 3
+
+ 5.  Improv __Points:__ 3
+
+- __Total Point Commitment:__ 22
+***
+
+***
 __Sprint:__ 5
 - __Story Commitments:__
 
