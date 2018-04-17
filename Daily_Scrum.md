@@ -10,6 +10,20 @@ __Date:__
 ***
 
 ***
+__Sprint:__ 6
+__Date:__ 4/16/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - Sprint 5 Review
+  - Sprint 5 Retrospective
+  - Sprint 6 Planning
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - figure out how a digital recorder works and if it can help me
+  - Get the Go SenseHat Library working.
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Might not get to Go
+***
+
+***
 __Sprint:__ 5
 __Date:__ 4/15/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
