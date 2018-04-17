@@ -15,6 +15,16 @@ __Sprint:__
 ***
 
 ***
+__Sprint:__ 5
+ - __Overall impressions of the sprint:__ It went better than expected. I didn't really think I could do all that considering what happened last week.
+ - __What went well?__ The change-up of Aikido and Improv works pretty well. It gives me more energy. Also the abandoned office on Saturday is great for recording. Additionally the meetups are allowing me to get things done from my personal scrum while I run the meetups.
+ - __What didn't go well?__ I didn't get to do review/retro until Monday.
+  - __Why?__ Because I was tired on Friday, I couldn't record during waza time then, so I went home.
+ - __What actions will you take next sprint to make it better?__
+  - Move review/retro to Sunday this week. That way I log the time correctly.
+***
+
+***
 __Sprint:__ 4
  - __Overall impressions of the sprint:__ I got a lot done, none of which was a thing I planned for.
  - __What went well?__ Considering how much happened, a lot of really important developments towards my overall goals.
