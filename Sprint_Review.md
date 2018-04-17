@@ -4,13 +4,23 @@ _1. Calculate the point difference between last sprint and this one._
 _2. Push that number to the front of this list_
 _This is so you can identify trends and maintain stability in your productivity over time._
 
-__Point velocity change Log__ [0, 18, 12, 8]
+__Point velocity change Log__ [27, 0, 18, 12, 8]
 
 _Use this template to showcase your completed work this sprint._
 ***
 __Sprint:__
  - __What did you complete this sprint?__
+  - Improv
+  - Aikido
+  - Xox3 on the commandline of a Raspberry Pi via SSH
+  - First youtube video in the can
+  - Read DevOps Handbook
  - __Why is it valuable?__
+  - Improv is essential to my ability to communicate with team mates and work in a group
+  - Aikido is essential to my ability to help clients and apprentices
+  - With Xox3 on the Pi, I can begin to work on setting up xox3 to run with the RPi SenseHat.
+  - With the first video done, I now have content that I can post on youtube.
+  - An deeper understanding of development in the context of product delivery is important to holistic development.
 ***
 
 ***
