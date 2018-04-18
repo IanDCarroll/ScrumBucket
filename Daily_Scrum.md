@@ -11,6 +11,15 @@ __Date:__
 
 ***
 __Sprint:__ 6
+__Date:__ 4/18/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - figure out how a digital recorder works and if it can help me
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Get the Go SenseHat Library working.
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Don't have a hello world example of the go sense hat library. I'll have to puzzle that out.
+
+__Sprint:__ 6
 __Date:__ 4/17/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - figure out how a digital recorder works and if it can help me
