@@ -11,6 +11,16 @@ __Date:__
 
 ***
 __Sprint:__ 6
+__Date:__ 4/17/18
+ 1. __What did I do yesterday to help achieve the Sprint Goal?__
+  - figure out how a digital recorder works and if it can help me
+ 2. __What Will I do today to help achieve the Sprint Goal?__
+  - Read through Chapter 83 of Better than Before
+  - Exercise
+ 3. __Do I see any blockers that could prevent me from achieving the Sprint Goal?__
+  - Tired and dejected. We lost an apprentice Yesterday and that's bumming me out. Additionally I'm very worried about the company's perception of my own performance. I'll take a light day to try to sort out my feelings.
+
+__Sprint:__ 6
 __Date:__ 4/16/18
  1. __What did I do yesterday to help achieve the Sprint Goal?__
   - Sprint 5 Review
